@@ -4,7 +4,7 @@
 
 ### [Live demo](https://dress-shop.vercel.app/)
 
-## Screenshots             
+## Screenshots                          
                                   
 ![Thumbnail](dress-home-page.png)
                 

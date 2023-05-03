@@ -5,7 +5,7 @@
 ### [Live demo](https://dress-shop.vercel.app/)
 
 ## Screenshots
-
+                
 ![Thumbnail](dress-home-page.png)
 
 ## Stacks

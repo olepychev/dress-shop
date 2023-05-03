@@ -7,7 +7,7 @@
 ## Screenshots
                 
 ![Thumbnail](dress-home-page.png)
-
+                
 ## Stacks
 
 - TypeScript
